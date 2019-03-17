@@ -1,0 +1,111 @@
+.container {
+    width:1200px;
+    height:750px;
+    margin:0 auto;
+    background-image: url(../img/Background.jpg)  
+    
+}
+  
+.mainform{
+    margin-left: 386px;   
+    width: 389px;
+    
+
+}
+
+legend {
+    Font-family: HelveticaNeue;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 26px;/* Approximation due to font substitution */
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.35);
+    padding-bottom: 20px;
+   
+}
+
+::placeholder{
+    font-family: HelveticaNeue;
+    color:  #000000;
+    font-size: 16px;/* Approximation due to font substitution */
+    font-weight: 400;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.35);
+}
+
+.user2   {
+    font-family: HelveticaNeue;
+    color:  #000000;
+    font-size: 16px;/* Approximation due to font substitution */
+    font-weight: 400;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.35);
+    border-radius: 3px;
+    background-color:  rgba(232, 234, 234, 0.5);
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    width: 335px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.pass2 {
+    font-family: HelveticaNeue;
+    color:  #000000;
+    font-size: 16px;/* Approximation due to font substitution */
+    font-weight: 400;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.35);
+    border-radius: 3px;
+    background-color:  rgba(232, 234, 234, 0.5);
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    width: 335px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+
+button {
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  rgba(0, 0, 0, 25);
+    background-color:  rgba(255, 255, 255, 0.35);
+    width: 201px;
+    height: 41px;
+    margin-bottom: 20px;
+    font-family: HelveticaNeue;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.35);
+}
+
+.link {
+    display: block;
+    padding-top:10px;
+    text-align: center;
+    color:rgb(204, 205, 201)
+    
+}
+.link:link {
+    text-decoration: none;
+}
+
+span {
+    font-family: Pacifico;
+    color:  #ffffff;
+    font-size: 40px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    text-align: left;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    display: block;
+    padding-top: 165px;
+    padding-bottom: 40px;
+    padding-left: 475px;
+}
+
+fieldset {
+
+    border:none;
+}
